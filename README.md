@@ -2,9 +2,11 @@
 
 # 👋 Hey there, I'm Roumaissa Touil!
 
-<p align="center">
-  <img src="https://readme-glitch.vercel.app/api?font=Poppins&size=24&color=F75C7E&center=true&vCenter=true&width=500&lines=👋+Hello,+my+name+is+Roumaissa!;🐞+I+can+handle+bugs!+(debugging+and+stuff);🧬+IT+%26+Bio+is+my+way+to+go...OUT!" alt="glitch-text" />
-</p>
+```
+ /\_/\  
+( o.o ) 💬 "She IS the next Dev-Engineer Girl!"  
+ > ^ <  
+```
 
 ## 🌟 About Me
 
@@ -33,24 +35,7 @@
 
 ## 📌 Featured Projects
 
-🚀 **[Project Name](#)** - Short description of your project <br>
-💡 **[Another Project](#)** - Another cool thing you built <br>
-🌎 **[Your Website](https://yourwebsite.com)** - Your personal portfolio
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-```
- /\_/\  
-( o.o )  💬 "She IS the next Dev-Engineer Girl!"  
- > ^ <  
-```
-
+💡 **[Another Project](#)** - a warm verse that will heal your soul and ease your mind and worry away -<br>
 ---
 
 ## 📫 Connect With Me
@@ -59,5 +44,4 @@
 
 ---
 
-🔥 _"Always give your 100%, the results will satisfy you eventually."_ 
-
+🔥 _"Always give your 100%, the results will satisfy you eventually."_
